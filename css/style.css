@@ -70,7 +70,7 @@
 }
 
 .site-main .site-banner .site-title h4 {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
 }
 
 .site-main .site-banner .banner-image > img {
@@ -236,10 +236,6 @@
 
 .site-main .project-area .button-group button + button {
   padding-left: 3rem;
-}
-
-.site-main .project-area .grid .our-project > .title h4 {
-  font: normal 700 25px/12px var(--roboto);
 }
 
 .site-main .project-area .grid .our-project .img a:hover img {
